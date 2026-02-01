@@ -57,13 +57,6 @@ Wine-Quality-Prediction-System/
 
 ---
 
-## 💻 Source Code
-
-You can access the main application file here:  
-[app.py on GitHub](https://github.com/<your-username>/wine-quality-prediction-system/blob/main/app.py)
-
----
-
 ## 🎯 Learning Outcomes
 
 - Hands-on experience with real-world datasets  

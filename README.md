@@ -37,10 +37,32 @@ This project explores these features, performs data analysis, and builds machine
 ## 📂 Project Structure
 
 Wine-Quality-Prediction-System/
-├── app.py
-├── README.md
+│
 ├── .gitignore
+│
+├── Notebook/
+│   └── (Jupyter notebooks for EDA & experiments)
+│
 ├── data/
-│ └── winequality.csv
-└── notebooks/
-└── eda.ipynb
+│   └── winequality.csv
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── app.py
+
+🎯 Learning Outcomes
+
+Understanding real-world datasets
+
+Applying machine learning workflows
+
+Building interactive dashboards
+
+Improving Python and data analysis skills
+
+👤 Author
+
+Nishan Poojary
+Data Science Student

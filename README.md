@@ -1,7 +1,7 @@
 🍷 Wine Quality Prediction System
 
 An end-to-end data science project that analyzes wine characteristics and predicts wine quality using machine learning, presented through an interactive Streamlit web application.
-
+---
 📌 Project Overview
 
 Wine quality is influenced by multiple chemical properties such as acidity, alcohol content, pH level, and sulfur dioxide.

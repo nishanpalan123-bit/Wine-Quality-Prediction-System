@@ -50,7 +50,7 @@ Wine-Quality-Prediction-System/
 
 ## 🚀 Live Demo
 
-[Streamlit Web App Demo](https://wine-quality-prediction-system.streamlit.app)
+[Streamlit Web App Demo](https://wine-quality-prediction-system.main.app.py)
 
 ---
 
